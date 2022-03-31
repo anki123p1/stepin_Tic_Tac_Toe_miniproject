@@ -77,7 +77,7 @@ The game can be generalized to an m,n,k-game in which two players alternate plac
 
 # Detail requirements
 
-## High Level Requirements
+  ## High Level Requirements
 | ID |Description| 
 | ----- | ----- | 
 | HR01 | User shall be able to choose 'X' to play |
@@ -87,7 +87,7 @@ The game can be generalized to an m,n,k-game in which two players alternate plac
 | HR05 | User shall win|
 | HR06 | User shall end up in a Draw situation|
 
-## Low level Requirements
+  ## Low level Requirements
 | ID | Description | HLR ID |
 | ------ | --------- | ------ |
 | LR01 | If the user presses '1', he'll be play with 'X'. | HR01 |
