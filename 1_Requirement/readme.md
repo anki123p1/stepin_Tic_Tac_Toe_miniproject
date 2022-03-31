@@ -73,7 +73,8 @@ The game can be generalized to an m,n,k-game in which two players alternate plac
 *  Also used in businesses and organizations.
 
 ## How
-*  It can be implemented in a business strategy to help improve it. Business strategy is about moving swiftly and getting an advantageous position. In Tic-Tac-Toe,        this is pretty straight forward: The first mover can choose the best position. In business, it is a bit more complicated. Even if business strategy is more complex,    the principle is the same: Move swiftly when the time comes, go for an advantageous position.
+*  It can be implemented in a business strategy to help improve it. Business strategy is about moving swiftly and getting an advantageous position. In Tic-Tac-Toe,        this is pretty straight forward:The first mover can choose the best position.In business, it is a bit more complicated. Even if business strategy is more              complex,the principle is the same: Move swiftly when the time comes, go for an advantageous position. 
+
 
 # Detail requirements
 
