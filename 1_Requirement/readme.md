@@ -38,17 +38,17 @@ It can help to improve a person's concentration as well as strategic thinking
 
 ![Description](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/flow.png?raw=true)
 ### Explanation 
-* The game starts giving you three input options(1, 2, 3):
-    * 1 means you play using 'X'.
-    * 2 means you play using 'O'.
-    * 3 means you exit the game.
-* The game ends when:
-    * It is in a draw situation , i.e, a total of 9 moves have been completed and novody has won.
-    * You win.
-    * The computer wins.
-* The game continues in the beginning if the check for draw is false.
-* Then it checks if anyone has won yet.
-* If not, then it again checks if it is a draw situation.
+*  The game starts giving you three input options(1, 2, 3):
+  *  1 means you play using 'X'.
+  *  2 means you play using 'O'.
+  *  3 means you exit the game.
+*  The game ends when:
+  *  It is in a draw situation , i.e, a total of 9 moves have been completed and novody has won.
+  *  You win.
+  *  The computer wins.
+*  The game continues in the beginning if the check for draw is false.
+*  Then it checks if anyone has won yet.
+*  If not, then it again checks if it is a draw situation.
 
 ## SWOT ANALYSIS
 ![SWOT Analysis](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/swot.png?raw=true)
@@ -56,22 +56,22 @@ It can help to improve a person's concentration as well as strategic thinking
 # 4W&#39;s and 1&#39;H
 
 ## Who
-* Anyone can play this game. 
-* Also, businesses can use it.
+*  Anyone can play this game. 
+*  Also, businesses can use it.
 
 ## What
-* This game is for recreational purposes. 
-* Businesses can also use is for development of strategies as there are many possible outcomes in this game.
+*  This game is for recreational purposes. 
+*  Businesses can also use is for development of strategies as there are many possible outcomes in this game.
 
 ## When
-* This game can be played whenever you are feeling bored or want to figure out ways, outcomes and situations of this game.
+*  This game can be played whenever you are feeling bored or want to figure out ways, outcomes and situations of this game.
 
 ## Where
-* A variety of websites make a simple tic tac toe game available.
-* Also used in businesses and organizations.
+*  A variety of websites make a simple tic tac toe game available.
+*  Also used in businesses and organizations.
 
 ## How
-* It can be implemented in a business strategy to help improve it. Business strategy is about moving swiftly and getting an advantageous position. In Tic-Tac-Toe, this is pretty straight forward: The first mover can choose the best position. In business, it is a bit more complicated. Even if business strategy is more complex, the principle is the same: Move swiftly when the time comes, go for an advantageous position.
+*  It can be implemented in a business strategy to help improve it. Business strategy is about moving swiftly and getting an advantageous position. In Tic-Tac-Toe,        this is pretty straight forward: The first mover can choose the best position. In business, it is a bit more complicated. Even if business strategy is more complex,    the principle is the same: Move swiftly when the time comes, go for an advantageous position.
 
 # Detail requirements
 
