@@ -39,9 +39,9 @@ The game can be generalized to an m,n,k-game in which two players alternate plac
 ![Description](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/flow.png?raw=true)
 ### Explanation 
 *  The game starts giving you three input options(1, 2, 3):
-  *  1 means you play using 'X'.
-  *  2 means you play using 'O'.
-  *  3 means you exit the game.
+  *1 means you play using 'X'.
+  *2 means you play using 'O'.
+  *3 means you exit the game.
 *  The game ends when:
   *  It is in a draw situation , i.e, a total of 9 moves have been completed and novody has won.
   *  You win.
