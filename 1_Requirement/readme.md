@@ -42,6 +42,7 @@ The game can be generalized to an m,n,k-game in which two players alternate plac
   *1 means you play using 'X'.
   *2 means you play using 'O'.
   *3 means you exit the game.
+  
 *  The game ends when:
   *  It is in a draw situation , i.e, a total of 9 moves have been completed and novody has won.
   *  You win.
