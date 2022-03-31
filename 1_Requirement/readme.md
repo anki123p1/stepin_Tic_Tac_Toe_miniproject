@@ -2,8 +2,7 @@ Requirements
 ## Introduction
  * Tic-tac-toe, also known as noughts and crosses, or Xs and Os/“X’y O’sies”, is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The    player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner. It is a solved game with a forced draw assuming best      play from both players. It is usually played on paper but as the technology evolved, here is a digital version of it.
  * This topic was chosen because it gives me an opportunity to implement and understand multiple C programming concepts.
- 
- 
+
 ## Research
 ### Tic-tac-toe Game Features and Benefits
 It is often used as a pedagogical tool for teaching the concepts of good sportsmanship and the branch of artificial intelligence that deals with the searching of game trees. It is straightforward to write a computer program to play tic-tac-toe perfectly or to enumerate the 765 essentially different positions (the state space complexity) or the 26,830 possible games up to rotations and reflections (the game tree complexity) on this space. If played optimally by both players, the game always ends in a draw, making tic-tac-toe a futile game.
@@ -71,7 +70,6 @@ It can help to improve a person's concentration as well as strategic thinking
 * A variety of websites make a simple tic tac toe game available.
 * Also used in businesses and organizations.
 
-
 ## How:
 * It can be implemented in a business strategy to help improve it. Business strategy is about moving swiftly and getting an advantageous position. In Tic-Tac-Toe, this is pretty straight forward: The first mover can choose the best position. In business, it is a bit more complicated. Even if business strategy is more complex, the principle is the same: Move swiftly when the time comes, go for an advantageous position.
 
@@ -85,8 +83,8 @@ It can help to improve a person's concentration as well as strategic thinking
 | HR04 | User shall lose|
 | HR05 | User shall win|
 | HR06 | User shall end up in a Draw situation|
+
 ##  Low level Requirements:
- 
 | ID | Description | HLR ID |
 | ------ | --------- | ------ |
 | LR01 | If the user presses '1', he'll be play with 'X'. | HR01 |
