@@ -74,8 +74,9 @@ It can help to improve a person's concentration as well as strategic thinking
 * It can be implemented in a business strategy to help improve it. Business strategy is about moving swiftly and getting an advantageous position. In Tic-Tac-Toe, this is pretty straight forward: The first mover can choose the best position. In business, it is a bit more complicated. Even if business strategy is more complex, the principle is the same: Move swiftly when the time comes, go for an advantageous position.
 
 # Detail requirements
+
 ## High Level Requirements: 
-| ID | Description | 
+| ID |Description| 
 | ----- | ----- | 
 | HR01 | User shall be able to choose 'X' to play |
 | HR02 | User shall be able to choose 'O' to play |
@@ -84,7 +85,7 @@ It can help to improve a person's concentration as well as strategic thinking
 | HR05 | User shall win|
 | HR06 | User shall end up in a Draw situation|
 
-##  Low level Requirements:
+## Low level Requirements:
 | ID | Description | HLR ID |
 | ------ | --------- | ------ |
 | LR01 | If the user presses '1', he'll be play with 'X'. | HR01 |
